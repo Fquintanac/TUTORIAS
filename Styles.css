@@ -25,7 +25,7 @@ iframe{
 
 .conten{
     padding: 3rem 9%;
-    background: linear-gradient(90deg,rgb(34,36,41), rgba(34, 36, 41, 0.5)), url(/IMAGENES/tutorial.jpg);
+    background: linear-gradient(90deg,rgb(34,36,41), rgba(34, 36, 41, 0.5)), url(/Prueba_escritorio/Prueba_escritorio/IMAGENES/tutorial.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
